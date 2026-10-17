@@ -28,3 +28,7 @@ Para ejecutarlo en PowerShell:
 ```powershell
 .\keygen_magana_alejandro.exe
 ```
+
+## Captura de pantalla
+
+[captura1.png]
