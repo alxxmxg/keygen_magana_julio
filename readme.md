@@ -28,5 +28,3 @@ Para ejecutarlo en PowerShell:
 ```powershell
 .\keygen_magana_alejandro.exe
 ```
-
-*(Si tu archivo se llama `keygen1.asm`, solo cambia el nombre en los comandos por `keygen1`).*
