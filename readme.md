@@ -2,7 +2,7 @@
 
 **Alumno:** Julio Alejandro Magaña Nuñez  
 **Materia:** Lenguajes de Interfaz (SCC-1014)  
-**Archivo:** `keygen_magana_alejandro.asm`
+**Archivo:** `keygen_magana_julio.asm`
 
 ## Descripción del proyecto
 
@@ -19,14 +19,14 @@ Lo que hace el programa es:
 Para compilar y crear el ejecutable con **UASM64** y **GoLink**, abre la terminal en la carpeta del proyecto y corre estos comandos:
 
 ```powershell
-uasm64 -win64 keygen_magana_alejandro.asm
-GoLink.exe keygen_magana_alejandro.obj kernel32.dll /fo keygen_magana_alejandro.exe /console /entry main
+uasm64 -win64 keygen_magana_julio.asm
+GoLink.exe keygen_magana_julio.obj kernel32.dll /fo keygen_magana_julio.exe /console /entry main
 ```
 
 Para ejecutarlo en PowerShell:
 
 ```powershell
-.\keygen_magana_alejandro.exe
+.\keygen_magana_julio.exe
 ```
 
 ## Captura de pantalla
