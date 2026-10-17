@@ -31,4 +31,4 @@ Para ejecutarlo en PowerShell:
 
 ## Captura de pantalla
 
-[captura1.png]
+<img src="captura1.png">
